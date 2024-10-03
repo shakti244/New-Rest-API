@@ -1,0 +1,26 @@
+[
+    {
+      "name": "apple x",
+      "company": "apple",
+      "price": 600
+    },
+    {
+      "name": "samsung s20",
+      "company": "samsung",
+      "price": 650,
+      "featured": false
+    },
+    {
+      "name": "dell series",
+      "company": "dell",
+      "price": 700,
+      "featured": true
+    },
+    {
+      "name": "mi 10",
+      "company": "mi",
+      "price": 550,
+      "featured": false
+    }
+  ]
+  
